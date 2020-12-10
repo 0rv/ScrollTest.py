@@ -14,4 +14,4 @@ https://matplotlib.org/index.html
 
 https://pypi.org/project/pynput/
 
-Tested with Python 3.8.4
+Tested with Python 3.8.4+
